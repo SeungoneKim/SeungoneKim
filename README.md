@@ -11,7 +11,7 @@ My research interest is currently, <br>
 
 #### Technologies I can use & Things I've studied
 - Programming Languages : Python3, Java, C++17, C
-- ML/DL Frameworks : Tensorflow2, Keras, PyTorch
+- ML/DL Frameworks : Tensorflow2, Keras, PyTorch, PyTorch Lightning
 - FrontEnd : HTML5, CSS3, JavaScript, ReactJS
 - BackEnd : NodeJS, Express
 - Database : SQL, MongoDB

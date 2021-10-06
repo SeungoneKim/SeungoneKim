@@ -9,6 +9,9 @@ My research interest is currently, <br>
 - Logical Reasoning with LMs : Neuro-Symbolic based methods, Using Human Supervision to train LMs with Logical Reasoning Abilities
 - Education Applications based on LMs : Human & LM Cooperation
 
+#### GITHUB STATUS
+[![SeungoneKim's github stats](https://github-readme-stats.vercel.app/api?username=SeungoneKim&show_icons=true&hide_border=true)](https://github.com/SeungoneKim)
+
 #### Technologies I can use & Things I've studied
 - Programming Languages : Python3, Java, C++17, C
 - ML/DL Frameworks : Tensorflow2, Keras, PyTorch, PyTorch Lightning

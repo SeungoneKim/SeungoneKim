@@ -9,6 +9,3 @@ My research interest lies in, <br>
 - Commonsense Knowledge Injection & Grounding
 - Analyzing to which extent Neural Models can do Commonsense Reasoning
 - Enabling Neural Models to follow the given Instuction
-
-#### Github STATUS
-[![SeungoneKim's github stats](https://github-readme-stats.vercel.app/api?username=SeungoneKim&show_icons=true&hide_border=true)](https://github.com/SeungoneKim)

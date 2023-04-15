@@ -3,6 +3,7 @@
 #### Info about me...
 Hello! I am a first year M.S. Student at the Language & Knowledge Lab at KAIST, advised by Minjoon Seo.<br> 
 Formerly, I was an undergraudate student at Yonsei University. <br>
+<br>
 My main research goal is to build neural models that have practical value when deployed for real-world use cases. <br>
 Specifically, I am interested in,<br> 
 (1) grounding neural models to share commonsense knowledge as humans do, <br>

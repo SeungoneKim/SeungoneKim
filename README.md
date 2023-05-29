@@ -5,9 +5,9 @@ Hello! I am a first year M.S. Student at the Language & Knowledge Lab at KAIST, 
 My main research goal is to make techniques that ensure neural models are aligned with human values in order to reduce the substantial risks they might have (also known the the "Alignment Problem").<br>
 <br>
 Specifically, I am interested in, <br>
-(1) enabling LMs to truly follow human instructions <br>
-(2) teaching LMs to express their thought process <br>
-(3) ensuring LMs to share commonsense knowledge as humans do <br>
+(1) enabling LMs to truly follow human instructions: ELM (ICML 2023)<br>
+(2) teaching LMs to express their thought process: CoTEVer (EACL 2023), CoT Collection<br>
+(3) ensuring LMs to share commonsense knowledge as humans do: SICK (COLING 2022) <br>
 (4) enforcing LMs to generate helpful & factual responses <br>
 <br>
 In addition, I also enjoy thinking of neural architectures that might have better inductive biases than Transformers.<br>

@@ -6,7 +6,7 @@ My main research goal is to make techniques that ensure neural models are aligne
 <br>
 Specifically, I am interested in, <br>
 (1) enabling LMs to truly follow human instructions: ELM (ICML 2023)<br>
-(2) teaching LMs to express their thought process: CoTEVer (EACL 2023), CoT Collection<br>
+(2) teaching LMs to express their thought process: CoTEVer (EACL 2023), CoT Collection (preprint)<br>
 (3) ensuring LMs to share commonsense knowledge as humans do: SICK (COLING 2022) <br>
 (4) enforcing LMs to generate helpful & factual responses <br>
 <br>

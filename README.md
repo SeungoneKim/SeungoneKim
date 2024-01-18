@@ -3,7 +3,7 @@
 #### Info about me...
 Hello! I am a M.S. Student at the Language & Knowledge Lab at KAIST, advised by Minjoon Seo.<br>
 <br>
-My main research goal is to understand the inherent limitations of large language models (LLMs) and to enhance their capabilities for more effective deployment in real-world scnearios.
+My primary research focus lies in the intersection of natural language generation (NLG) and establishing a science of language model behaviors.<br> Concretely, my research interests include: (i) developing fine-grained evaluation frameworks that systematically identify what specific capabilities language models lack and (ii) exploring the role of synthetic data to induce desired abilities into language models for further improvement.<br>
 <br>
 I am actively looking for a PhD position at the US (admission for Fall 2024)!<br>
 <br>
